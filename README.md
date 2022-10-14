@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software.
-  - 🎓 &nbsp; Studying Computer Science and Engineering at IPN-ESCOM.
+  - 🎓 &nbsp; Studying Computer Systems Engineering at IPN-ESCOM.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; I love play videogames, the cats and the coffe.  
 </div> 
