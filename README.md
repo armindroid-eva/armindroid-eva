@@ -11,6 +11,18 @@
 </div> 
 </div>
 
+
+<h3> 📞 Contact with me </h3>
+<p>
+  <a href="mailto:l.sanchez3024@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+	<a href="mailto:lsanchezj1500@alumno.ipn.mx" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" /></a>
+	<a href="https://www.facebook.com/luis.a.sanchezjuarez/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /></a>
+	<a href="https://www.linkedin.com/in/armindroid" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+	<!--
+	<a href="https://discord.gg/armindroid#9877" target="_blank"><img alt="0draS0#0467" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/> </a> -->
+</p>
+
+
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
