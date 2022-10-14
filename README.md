@@ -1,7 +1,6 @@
 <h1 align="center">Hey there! I'm Luis Alberto 👋 </h1>
 <h3 align="center">🚀 FullStack Developer | Devops | Cloud Computing  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQGYPXWcmDKkew/articleshare-shrink_1280_800/0/1665734387311?e=1666339200&v=beta&t=No3nvsAkmgUhx5cFv3MdMaQDhvDJap0DSxP5kB_ACBU" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
