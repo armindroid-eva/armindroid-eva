@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Luis Alberto 👋 </h1>
-<h3 align="center">🚀 FullStack Developer | DevOps | Cloud Computing  🚀</h3>
+<h3 align="center">🚀 FullStack Developer | Cloud Computing  🚀</h3>
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
